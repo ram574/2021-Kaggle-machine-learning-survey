@@ -2,7 +2,7 @@
 Competition 
 # Welcome !
 
-### Hi there, I'm ram - Data Scientist [codeLOVEr] 
+### Hi there, I'm ram - Data Scientist / Analyst [codeLOVEr]
 
 * [https://tulasiram-portfolio.netlify.app] 👋
 
