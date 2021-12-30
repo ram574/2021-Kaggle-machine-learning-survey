@@ -37,13 +37,6 @@ Competition
 
  To identify insights from the survey about different data professions
 
-
-
-
- 
-
-We will build an AI-based chatbot using an E-Commerce business case.
-
 ## Data Description 
 
 https://www.kaggle.com/c/kaggle-survey-2021
