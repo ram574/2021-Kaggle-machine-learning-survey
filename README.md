@@ -1,5 +1,5 @@
 # 2021-Kaggle-machine-learning-survey
-Competition 
+This is a competition hosted by Kaggle every year
 # Welcome !
 
 ### Hi there, I'm ram - Data Scientist / Analyst [codeLOVEr]
