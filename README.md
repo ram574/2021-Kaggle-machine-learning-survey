@@ -9,8 +9,8 @@ This is a competition hosted by Kaggle every year
 
 ## I'm a Data Science, Machine Learning, NLP, Deep Learning, Artificial Intelligence Enthusiast!!
 
-- 🔭 I am a recent Graduate : [Want to Become A Data Scientist!]
-- 🌱 I’m currently learning everything 🤣
+- 🔭 I am a Data Scientist...!
+- 🌱 I’m quick learner and passionate about data science 🤣
 - 👯 I’m looking to collaborate with other developers
 - 🥅 2020 Goals: Improve and gain Knowledge on ML techniques
 - ⚡ Fun fact: I love to travel, play video games, reading and writing articles
